@@ -1,0 +1,4 @@
+host = 'localhost'
+port = 8000
+buffersize = 1024
+encoding = 'utf-8'
